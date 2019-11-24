@@ -1,0 +1,2 @@
+# kill-paywall
+I dont take credit for this, im  just starting to learn java, and was trying to edit a pre-made extenstion to better fit my needs. it's not working when i try to plug it into chrome  ( i only added one line of code) and i wasnt sure if there was something ekse in the code pointing back to a github project for update purposes, so im uploading my edited extension to see if that will satisfy that inquiry, if that IS a thing in the original code.
